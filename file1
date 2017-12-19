@@ -1,5 +1,13 @@
 this is file 1
 
+/<<<<<<< branch-1
+some changes are made in it
+
+line deleted --->> it contains some text
+
+these changes are made in branch 1 after merging it with master branch
+//=======
 it contains some text
 
 some changes are made in file 1
+//>>>>>>> master1
